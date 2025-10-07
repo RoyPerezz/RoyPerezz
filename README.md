@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h3>Rodolfo Pérez</h3>
-<img src="https://github.com/RoyPerezz/RoyPerezz/blob/main/3195378.jpg)" alt="Descripción de la imagen">
+<img src="https://github.com/RoyPerezz/RoyPerezz/blob/main/3195378.jpg" alt="Descripción de la imagen">
